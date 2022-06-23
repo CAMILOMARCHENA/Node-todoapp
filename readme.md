@@ -12,4 +12,5 @@ then
 
 ## Note
 
-This Web App only works with Chromium-based Browsers:  Google Chrome, The New Microsoft Edge, brave and others.
+This Web App only works with Chromium-based Browsers:  
+- Google Chrome, The New Microsoft Edge, brave and others.
